@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="please_enter_valid_bluesky_handle" version_id="1020070" version_string="1.0.2"><![CDATA[Please enter a valid Bluesky profile URL (e.g., https://bsky.app/profile/username.bsky.social)]]></phrase>
+  <phrase title="please_enter_valid_cameo_url" version_id="1020070" version_string="1.0.2"><![CDATA[Please enter a valid Cameo URL (e.g., https://www.cameo.com/username)]]></phrase>
+  <phrase title="please_enter_valid_imdb_url" version_id="1020070" version_string="1.0.2"><![CDATA[Please enter a valid IMDb profile URL (e.g., https://www.imdb.com/name/nm0000001)]]></phrase>
+  <phrase title="please_enter_valid_steam_url" version_id="1020070" version_string="1.0.2"><![CDATA[Please enter a valid Steam profile URL (e.g., https://steamcommunity.com/id/username)]]></phrase>
+  <phrase title="user_field_desc.bluesky" version_id="1020070" version_string="1.0.2"><![CDATA[Enter your Bluesky profile URL (e.g., https://bsky.app/profile/username.bsky.social)]]></phrase>
+  <phrase title="user_field_desc.cameo" version_id="1020070" version_string="1.0.2"><![CDATA[Enter your Cameo profile URL (e.g., https://www.cameo.com/username)]]></phrase>
+  <phrase title="user_field_desc.imdb" version_id="1020070" version_string="1.0.2"><![CDATA[Enter your IMDb profile URL (e.g., https://www.imdb.com/name/nm0000001)]]></phrase>
+  <phrase title="user_field_desc.steam" version_id="1020070" version_string="1.0.2"><![CDATA[Enter your Steam profile URL (e.g., https://steamcommunity.com/id/username)]]></phrase>
+  <phrase title="user_field_title.bluesky" version_id="1020070" version_string="1.0.2"><![CDATA[Bluesky Profile]]></phrase>
+  <phrase title="user_field_title.cameo" version_id="1020070" version_string="1.0.2"><![CDATA[Cameo]]></phrase>
+  <phrase title="user_field_title.imdb" version_id="1020070" version_string="1.0.2"><![CDATA[IMDb]]></phrase>
+  <phrase title="user_field_title.steam" version_id="1020070" version_string="1.0.2"><![CDATA[Steam]]></phrase>
+</phrases>

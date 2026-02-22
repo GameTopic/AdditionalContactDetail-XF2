@@ -1,0 +1,26 @@
+{
+    "legacy_addon_id": "",
+    "title": "[TylerAustin] Additional Contact Details",
+    "description": "Adds validated additional contact fields for Cameo, IMDb, Steam, and Bluesky profiles",
+    "version_id": 1030070,
+    "version_string": "1.0.3",
+    "dev": "Tyler Austin",
+    "dev_url": "https://tyleraustins.com",
+    "faq_url": "https://tyleraustins.com/faq",
+    "support_url": "https://tyleraustins.com/support",
+    "extra_urls": {
+        "Gaming Community": "https://cities-mods.com",
+        "Donate": "https://wise.com/pay/me/nickb571"
+    },
+    "require": {
+        "XF": [
+            2030010,
+            "XenForo 2.3.0"
+        ],
+        "php": [
+            "8.3.0",
+            "PHP 8.3.0+"
+        ]
+    },
+    "icon": "icon.png"
+}
